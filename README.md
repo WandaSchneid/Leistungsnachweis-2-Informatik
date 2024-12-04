@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Living Planet Index - Data package
 
 This data package contains the data that powers the chart ["Living Planet Index"](https://ourworldindata.org/grapher/global-living-planet-index?v=1&csvType=full&useColumnShortNames=false) on the Our World in Data website.
@@ -110,3 +111,8 @@ Retrieved from: http://stats.livingplanetindex.org/
 
 
     
+=======
+# Leistungsnachweis-2-Informatik
+BMLD Python Projekt
+Projekt beschreiben
+>>>>>>> cf923ccebd3417a3901ae8ceffe8f1142744ce24

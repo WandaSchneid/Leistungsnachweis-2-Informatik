@@ -1,6 +1,6 @@
 # Veränderung der Wildtierpopulation
-**Gruppenmitglieder:** Riccardo, Wanda   
-**Fragestellung:**    Wie hat sich die Wildtierpopulation zwischen 1970 und 2020 verändert. Wo sind die stärksten veränderungen sichtbar? Wo blieb die Zahl eher stabil?   
-**Analyse:**   Wir recherchieren im Internet, was die Gründe für einen starken Rückgang ist. Auch recherchieren wir, warum es in Europa eher stabil bleibt.  
+**Gruppenmitglieder:** Riccardo Reich, Wanda Schneid  
+**Fragestellung:** "Wie hat sich der Living Planet Index (LPI) in verschiedenen geografischen Regionen im Verlauf der Jahre verändert und welche regionalen Unterschiede sind dabei erkennbar? Was könnten Gründe sein für anfällige statistische Ausreisser?" 
+**Analyse:**   Wir recherchieren im Internet, was die Gründe für einen starken Rückgang sein könnten. Auch recherchieren wir, warum es in Europa eher stabil bleibt.  
 **Datensatz:** 
 https://ourworldindata.org/2024-living-planet-index
